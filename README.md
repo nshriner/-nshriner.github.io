@@ -1,2 +1,2 @@
-# -nshriner.github.io
+# nshriner.github.io
 Home for website after codepen
